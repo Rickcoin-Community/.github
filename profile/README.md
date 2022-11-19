@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Rickcoin-Community/rickcoin-core/main/assets/images/logo.svg" alt="Rickcoin" width="300"/>
 <br/><br/>
-Rickcoin Core [RICK, ℜ]  
+Rickcoin [RICK, ℜ]  
 </h1>
 
 
